@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+# Automatically set up irssi for autoconnect and notifications
+
+# Author: Christopher Markieta
+
+set -e
+
+
