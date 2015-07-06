@@ -6,4 +6,5 @@
 
 set -e
 
-
+# Terminator 
+# if ! screen -list | grep -q 'irssi'; then screen -smS irssi irssi; else screen -x irssi; fi
